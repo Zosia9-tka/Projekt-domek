@@ -14,7 +14,7 @@
 }
 
 .nav__item a{
-    color: var(--white);
+    color: var(--accent);
     text-decoration: none;
 }
 
