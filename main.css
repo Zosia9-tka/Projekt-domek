@@ -19,7 +19,7 @@
 }
 
 .hero{
-    background-color: var(--secondary);
+    background-color: var(--primary);
     display: flex;
     align-items: center;
 }
