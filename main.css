@@ -2,7 +2,7 @@
 @import url(/styles/colors.css);
 
 .nav{
-    background-color: var(--primary);
+    background-color: var(--secondary);
     padding: 30px 20px;
 }
 
